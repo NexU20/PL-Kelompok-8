@@ -18,5 +18,8 @@ viewStudents("Perempuan");  //Output: (ArrayList<Santri>)
 count(type);    //Menghitung jumlah santri di dalam tabel. Param: "all" (jumlah seluruhnya), "santri" (jumlah santri), "santriwati" (jumlah santriwati)
 count(all);  //Output: (Integer)
 ``` 
----
 **Note:** Untuk fungsi insert sudah digenerate NIS secara otamatis dalam fungsinya!
+
+---
+
+**Fungsi Login ada di DatabaseConnection.java**
