@@ -37,6 +37,7 @@ viewTeachers();  //Output: (ArrayList<Pengajar>)
 
 count();    //Menghitung jumlah santri di dalam tabel. Param: "all" (jumlah seluruhnya), "santri" (jumlah santri), "santriwati" (jumlah santriwati)
 count();  //Output: (Integer)
+```
 
 ---
 
